@@ -1,85 +1,64 @@
 # AI Engineer Blueprint Documentation
 
-## Purpose
+> The official documentation for the AI Engineer Blueprint learning system.
 
-This directory contains the official documentation for the AI Engineer Blueprint project.
+---
 
-The documentation serves as the single source of truth for the entire learning system.
+# Purpose
 
-It defines:
+This documentation is the single source of truth for the entire project.
 
-- Project vision
-- Learning philosophy
+It describes:
+
+- Vision
+- Goals
+- Learning System
 - Curriculum
-- Student progress
-- Engineering standards
-- AI mentor instructions
-- Project decisions
+- Engineering Standards
+- AI Instructions
+- Student Progress
+- Career Plan
+
+Everything in the repository must follow these documents.
 
 ---
 
-## Documentation Structure
+# Documentation Structure
 
-01_PROJECT_CHARTER.md
-
-Defines why this project exists.
-
----
-
-02_MASTER_CONTEXT.md
-
-The complete context required for any AI assistant to understand the project.
-
----
-
-03_PROJECT_RULES.md
-
-Rules that govern the entire learning journey.
-
----
-
-04_LEARNING_PHILOSOPHY.md
-
-Teaching methodology and learning principles.
+| File | Purpose |
+|------|---------|
+| PROJECT_CHARTER.md | Why this project exists |
+| MASTER_CONTEXT.md | Complete project context |
+| PROJECT_RULES.md | Rules for the learning journey |
+| LEARNING_PHILOSOPHY.md | Teaching methodology |
+| ROADMAP.md | Long-term roadmap |
+| CURRICULUM.md | Complete curriculum |
+| PROGRESS.md | Learning progress |
+| DECISIONS.md | Engineering decisions |
+| CLAUDE.md | Claude instructions |
+| CHATGPT.md | ChatGPT instructions |
+| GLOSSARY.md | AI & Software Engineering terms |
+| RESOURCES.md | Books, courses, articles |
+| CAREER_PLAN.md | Career roadmap |
+| PORTFOLIO_GUIDE.md | Portfolio strategy |
+| INTERVIEW_GUIDE.md | Interview preparation |
 
 ---
 
-05_ROADMAP.md
+# Principles
 
-Long-term roadmap.
+The project follows:
 
----
-
-06_CURRICULUM.md
-
-Detailed curriculum.
-
----
-
-07_PROGRESS.md
-
-Learning progress.
+- Documentation First
+- Project-Based Learning
+- Software Engineering Best Practices
+- AI Engineering Standards
+- Continuous Improvement
 
 ---
 
-08_DECISIONS.md
+# Current Version
 
-Engineering decisions.
+Documentation Version: **1.0**
 
----
-
-09_CLAUDE.md
-
-Instructions for Claude.
-
----
-
-10_CHATGPT.md
-
-Instructions for ChatGPT.
-
----
-
-## Version
-
-Documentation Version: 1.0
+Status: **Active Development**
