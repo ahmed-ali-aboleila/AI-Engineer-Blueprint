@@ -47,16 +47,44 @@ Completed
 - CLAUDE
 - CHATGPT
 - ROADMAP
+- CURRICULUM
 
 Remaining
 
-- CURRICULUM
+None — Documentation Core is complete.
+
+---
+
+## Sprint 2
+
+Status
+
+🟡 In Progress
+
+Current Focus
+
+Python Foundation — Phase 1
+
+Completed
+
+- Week 1: Variables & Data Types
+- Week 1: Conditions (if/elif/else)
+- Week 1: Loops (for)
+- Week 1 Mini Project: Simple Calculator
+
+Remaining
+
+- Week 2: Functions & Modules
+- Week 3: Data Structures
+- Week 4: Files & Error Handling
+- Week 5: OOP & Packaging
+- Week 6: (continued OOP/Packaging per CURRICULUM.md)
 
 ---
 
 # Current Module
 
-Python Foundation
+Python Foundation — Week 2 (Functions & Modules)
 
 Status
 
@@ -68,7 +96,7 @@ Not Started
 
 Completed
 
-None
+- Simple Calculator (Week 1 Mini Project)
 
 In Progress
 
@@ -90,7 +118,7 @@ Healthy
 
 Python
 
-⬜ Beginner
+🟩 Beginner — Week 1 Complete
 
 Git
 
@@ -120,12 +148,10 @@ LLM Engineering
 
 # Next Action
 
-Finish CURRICULUM.md
-
-Begin Python Lesson 1
+Begin Python Foundation — Week 2: Functions & Modules
 
 ---
 
 Last Updated
 
-2026-07-03
+2026-07-09

@@ -8,7 +8,7 @@ Project: AI Engineer Blueprint
 
 Owner: Ahmed Ali
 
-Last Updated: 2026-07-03
+Last Updated: 2026-07-09
 
 ---
 
@@ -32,15 +32,15 @@ Sprint 1
 
 Current Phase:
 
-Documentation Core
+Phase 1 — Python Foundation
 
 Current Module:
 
-Python Foundation
+Week 2 — Functions & Modules
 
 Current Lesson:
 
-Python Lesson 1 (Week 1)
+Not started yet
 
 ---
 
@@ -146,6 +146,25 @@ None — Documentation Core is complete.
 Upcoming
 
 None
+
+---
+
+## Python Foundation — Week 1
+
+Completed
+
+- Variables & Data Types → `Exercises/Week1/greeting.py`
+- Conditions (if/elif/else) → `Exercises/Week1/number_classifier.py`
+- Loops (for) → `Exercises/Week1/fizzbuzz.py`
+- Mini Project: Simple Calculator → `Exercises/Week1/calculator.py`
+
+Status:
+
+✅ Complete
+
+Notes:
+
+Exercises are organized under `Exercises/Week1/` (capitalized folder naming, per student preference).
 
 ---
 
@@ -301,9 +320,9 @@ chore:
 
 # Current Objective
 
-Documentation Core is complete.
+Python Foundation — Week 1 is complete.
 
-Start Python Foundation — Week 1.
+Start Week 2 — Functions & Modules.
 
 ---
 
@@ -311,7 +330,7 @@ Start Python Foundation — Week 1.
 
 1.
 
-Start Python Foundation Week 1
+Start Week 2, Lesson 1: Defining Functions, Parameters & Return Values
 
 ---
 
