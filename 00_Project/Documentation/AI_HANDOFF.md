@@ -28,7 +28,7 @@ Project Status:
 
 Current Sprint:
 
-Sprint 1
+Sprint 2
 
 Current Phase:
 
@@ -36,7 +36,7 @@ Phase 1 — Python Foundation
 
 Current Module:
 
-Week 2 — Functions & Modules
+Week 3 — Data Structures
 
 Current Lesson:
 
@@ -165,6 +165,20 @@ Status:
 Notes:
 
 Exercises are organized under `Exercises/Week1/` (capitalized folder naming, per student preference).
+
+---
+
+## Python Foundation — Week 2
+
+Completed
+
+- Functions (def, parameters, return vs print, None behavior) → `Exercises/Week2/calculate_area.py`
+- Scope (local vs global) → verified through live experiments, no separate file
+- Modules & Imports → `Exercises/Week2/math_utils.py` + `Exercises/Week2/main.py`
+
+Status:
+
+✅ Complete
 
 ---
 
@@ -320,9 +334,9 @@ chore:
 
 # Current Objective
 
-Python Foundation — Week 1 is complete.
+Python Foundation — Week 2 is complete.
 
-Start Week 2 — Functions & Modules.
+Start Week 3 — Data Structures.
 
 ---
 
@@ -330,7 +344,7 @@ Start Week 2 — Functions & Modules.
 
 1.
 
-Start Week 2, Lesson 1: Defining Functions, Parameters & Return Values
+Start Week 3, Lesson 1: Lists, Tuples, Dictionaries, Sets
 
 ---
 

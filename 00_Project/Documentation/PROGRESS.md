@@ -71,10 +71,12 @@ Completed
 - Week 1: Conditions (if/elif/else)
 - Week 1: Loops (for)
 - Week 1 Mini Project: Simple Calculator
+- Week 2: Functions (def, parameters, return vs print, None)
+- Week 2: Scope (local vs global)
+- Week 2: Modules & Imports
 
 Remaining
 
-- Week 2: Functions & Modules
 - Week 3: Data Structures
 - Week 4: Files & Error Handling
 - Week 5: OOP & Packaging
@@ -84,7 +86,7 @@ Remaining
 
 # Current Module
 
-Python Foundation — Week 2 (Functions & Modules)
+Python Foundation — Week 3 (Data Structures)
 
 Status
 
@@ -118,7 +120,7 @@ Healthy
 
 Python
 
-🟩 Beginner — Week 1 Complete
+🟩 Beginner — Week 2 Complete
 
 Git
 
@@ -148,10 +150,10 @@ LLM Engineering
 
 # Next Action
 
-Begin Python Foundation — Week 2: Functions & Modules
+Begin Python Foundation — Week 3: Data Structures
 
 ---
 
 Last Updated
 
-2026-07-09
+2026-07-15
