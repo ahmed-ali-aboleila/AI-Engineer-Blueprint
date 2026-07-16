@@ -74,10 +74,12 @@ Completed
 - Week 2: Functions (def, parameters, return vs print, None)
 - Week 2: Scope (local vs global)
 - Week 2: Modules & Imports
+- Week 3: Lists (indexing, append, insert, remove, pop, sort)
+- Week 3: Tuples (immutability, unpacking)
+- Week 3: Dictionaries (key-value pairs, items(), in operator)
 
 Remaining
 
-- Week 3: Data Structures
 - Week 4: Files & Error Handling
 - Week 5: OOP & Packaging
 - Week 6: (continued OOP/Packaging per CURRICULUM.md)
@@ -86,7 +88,7 @@ Remaining
 
 # Current Module
 
-Python Foundation — Week 3 (Data Structures)
+Python Foundation — Week 4 (Files & Error Handling)
 
 Status
 
@@ -120,7 +122,7 @@ Healthy
 
 Python
 
-🟩 Beginner — Week 2 Complete
+🟩 Beginner — Week 3 Complete
 
 Git
 
@@ -150,10 +152,10 @@ LLM Engineering
 
 # Next Action
 
-Begin Python Foundation — Week 3: Data Structures
+Begin Python Foundation — Week 4: Files & Error Handling
 
 ---
 
 Last Updated
 
-2026-07-15
+2026-07-16
